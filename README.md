@@ -4,6 +4,8 @@ This demo app shows a simple user profile app set up using
 - index.html with pure js and css styles
 - nodejs backend with express module
 - mongodb for data storage
+- using utility-container to create user-account collection in database
+- create the project using docker compose and docker file
 
 All components are docker-based
 
